@@ -40,24 +40,5 @@
     "mp-360": {
       "navigationStyle": "custom"
     }
-  },
-  "tabBar": {
-    "color": "#969999",
-    "selectedColor": "#3CC4FF",
-    "borderStyle": "black",
-    "backgroundColor": "#FFFFFF",
-    "list": [{
-        "pagePath": "pages/tabBar/index/index",
-        "iconPath": "static/jianzhike/img/tab-index-icon.png",
-        "selectedIconPath": "static/jianzhike/img/tab-index-active-icon.png",
-        "text": "首页"
-      },
-      {
-        "pagePath": "pages/tabBar/mine/mine",
-        "iconPath": "static/jianzhike/img/tab-mine-icon.png",
-        "selectedIconPath": "static/jianzhike/img/tab-mine-active-icon.png",
-        "text": "我的"
-      }
-    ]
   }
 }
