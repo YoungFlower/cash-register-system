@@ -1,5 +1,5 @@
 <template>
-  <div class='index-page'>
+  <div class='index-page back-color'>
     <div class="nav-style"
       :style="{'height':(navBarHeight + systemInfo.statusBarHeight) + 'px','padding-top':systemInfo.statusBarHeight + 'px'}">
       收银小程序

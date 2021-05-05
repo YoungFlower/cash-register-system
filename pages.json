@@ -26,6 +26,12 @@
         "enablePullDownRefresh": true,
         "navigationStyle": "custom"
       }
+    },{
+      "path": "pages/goodList/goodList",
+      "style": {
+        "enablePullDownRefresh": true,
+        "navigationStyle": "custom"
+      }
     }
   ],
   "subPackages": [],

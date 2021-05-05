@@ -1,0 +1,31 @@
+export const goodList = [{
+    code:100,
+    name:"鞋子",
+    price:'13.6',
+    count:30,
+},{
+    code:1003,
+    name:"袜子",
+    price:'113.6',
+    count:30,
+},{
+    code:1002,
+    name:"帽子",
+    price:'123.6',
+    count:30,
+},{
+    code:1011,
+    name:"鞋子",
+    price:'13.6',
+    count:30,
+},{
+    code:1021,
+    name:"衣服",
+    price:'13.6',
+    count:30,
+},{
+    code:2001,
+    name:"饭",
+    price:'13.6',
+    count:30,
+},]
